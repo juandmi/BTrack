@@ -1,7 +1,3 @@
-// not sure if audio stream is there !??!?!?
-// compile with: 
-// g++ -o audioBPM main.cpp lib/kiss_fft130/kiss_fft.c -lportaudio -lBTrack -lsamplerate -L./lib -I./include -I./lib/kiss_fft130
-
 #include <iostream>
 #include <portaudio.h>
 #include "BTrack.h"
